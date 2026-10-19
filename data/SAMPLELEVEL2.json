@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "PsgbestPsg",
+            "link": "https://youtu.be/Xzb7apPvDos?si=seu7D5rje0Tz4GMa",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "darf4755673",
+            "link": "https://youtu.be/Xzb7apPvDos?si=seu7D5rje0Tz4GMa",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
