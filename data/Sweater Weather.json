@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "idk",
     "records": [
+                 {
+            "user": "darf4755673",
+            "link": "https://youtu.be/49nwSVY6NXM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
